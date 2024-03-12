@@ -1,1 +1,1 @@
-# sigma-wedge-hackathon
+The objective of this program is to build a simple model to make decisions on certain days regarding whether to place a buy order trade for the following day, with the aim of maximising the portfolio value. This is achieved by classifying the daily returns into different states (Bull, Flat, Bear) and defining a value function to determine the portfolio value based on these states.
